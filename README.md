@@ -38,7 +38,7 @@ A professional web-based log file analysis platform with intelligent anomaly det
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/logsecure-analytics.git
+   git clone https://github.com/Mangala-Manmatharaja/LogSecure-Analytics
    cd logsecure-analytics
    ```
 
