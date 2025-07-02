@@ -1,4 +1,4 @@
-# 🔐LogSecure Analytics 
+# 🔐LogSecure Analyt
 
 A professional web-based log file analysis platform with intelligent anomaly detection, advanced search capabilities, and comprehensive security insights.
 
