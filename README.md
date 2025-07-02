@@ -168,9 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Contact me on [LinkedIn](https://linkedin.com/in/yourprofile)
+- Contact me on [LinkedIn](www.linkedin.com/in/m-mangala-045a10229)
 
 ---
 
